@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManosalvasR-LigaProWeb", "ManosalvasR-LigaProWeb\ManosalvasR-LigaProWeb.csproj", "{C24F784E-BA64-4D15-8EE8-E5831155E9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C24F784E-BA64-4D15-8EE8-E5831155E9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24F784E-BA64-4D15-8EE8-E5831155E9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24F784E-BA64-4D15-8EE8-E5831155E9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24F784E-BA64-4D15-8EE8-E5831155E9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC7785C1-E47A-4938-89BE-FB6B56A43B45}
+	EndGlobalSection
+EndGlobal
